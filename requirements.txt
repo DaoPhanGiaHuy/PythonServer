@@ -1,7 +1,7 @@
 fastapi
 uvicorn
-torch
+torch==2.0.0
+timm==0.6.13
 pillow
-timm
 requests
 python-multipart
